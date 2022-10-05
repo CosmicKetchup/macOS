@@ -4,13 +4,12 @@
     - [Utilities](#utilities)
     - [Other](#other)
     - [Safari Extensions](#safari-extensions)
-2. [Atom Packages](#atom-packages)
-3. [Command-Line Tools](#command-line-tools)
+2. [Command-Line Tools](#command-line-tools)
     - [iTerm2 Configuration](#iterm2-configuration)
     - [HomeBrew Formulae](#homebrew-formulae)
     - [Ruby Gems](#ruby-gems)
     - [Node Packages](#node-packages)
-4. [Alfred Workflows](#alfred-workflows)
+3. [Alfred Workflows](#alfred-workflows)
 
 ## Applications
 ### Development
